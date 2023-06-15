@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Solicitação Enviada com Sucesso</title>
+    <link rel="stylesheet" type="text/css" href="stylesformulario2.css">
+    <script>
+        var count = 5; // Defina o número de segundos desejado
+
+        function updateCountdown() {
+            var countdownElement = document.getElementById("countdown");
+            countdownElement.innerHTML = count;
+
+            if (count === 0) {
+                window.location.href = "inicio.html"; // Redireciona para o próximo site
+            } else {
+                count--;
+                setTimeout(updateCountdown, 1000); // Atualiza o contador a cada segundo (1000 milissegundos)
+            }
+        }
+
+        window.onload = function() {
+            updateCountdown(); // Inicia o cronômetro quando a página carrega
+        };
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="success-box">
+            <h2>Sua solicitação foi enviada com sucesso!</h2>
+            <p>Obrigado por entrar em contato conosco. Entraremos em contato via email! </p>
+            <p>Você será redirecionado para o início em <span id="countdown">5</span> segundos...</p>
+        </div>
+    </div>
+</body>
+</html>

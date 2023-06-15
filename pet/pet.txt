@@ -1,0 +1,176 @@
+<HTML>
+<TITLE> Top Pets Animados </TITLE>
+
+<BODY BACKGROUND= "C:\Users\natan\OneDrive\Área de Trabalho\Teste\FUNDO\fundo2.jpg" LINK= "yellow" VLINK="cyan" ALINK="magenta"> <BODY TEXT=BLACK> 
+
+<FONT SIZE= 8>
+<H1 align=center> <B> Pets animados - TOP conhecidos:  </B> </H1></FONT>
+<HR SIZE= 3 WIDTH = 100% COLOR=BLACK ALIGN = Center>
+<HR SIZE= 3 WIDTH = 100% COLOR=BLACK ALIGN = Center>
+<BR>
+<CENTER>
+<MARQUEE = BEHAVIOR= ALternate> <FONT SIZE=18> <FONT COLOR =  #e60000 >
+Confira os melhores PETS(cães) de acordo com a população mundial: </FONT> </MARQUEE>
+</CENTER>
+<BR>
+
+<FONT SIZE=8>
+<FONT COLOR =  #e65c00>
+<P> Snoopy
+</FONT>
+
+
+<BR>
+<BR>
+<IMG SRC ="C:\Users\natan\OneDrive\Área de Trabalho\Teste\IMAGENS\caes\1.jpg" >
+<BR>
+<P> Um cão de raça Beagle com mais de 50 anos. É a personagem da banda desenhada “Peanuts” criada por Charles Schulz. 
+<BR>
+<BR>
+<BR>
+
+<FONT COLOR =  #e65c00>
+Scooby-Doo
+</FONT>
+
+<BR>
+<BR>
+<IMG SRC ="C:\Users\natan\OneDrive\Área de Trabalho\Teste\IMAGENS\caes\8.jpg" >
+<BR>
+<BR>
+Cão de raça Dogue Alemão. É a personagem da banda desenhada “ Scooby-Doo!” criada por Joe Ruby.
+<BR>
+<BR>
+<BR>
+
+<FONT COLOR =  #e65c00>
+Pluto
+</FONT>
+
+<BR>
+<BR>
+<IMG SRC ="C:\Users\natan\OneDrive\Área de Trabalho\Teste\IMAGENS\caes\6.jpg" >
+<BR>
+<BR>
+Um Bloodhound. Personagem da banda desenhada ”Mickey Mouse”, criada por Walt Disney. É o melhor amigo do Mickey, embora inicialmente fosse o cão da Minnie. 
+<BR>
+<BR>
+<BR>
+
+<FONT COLOR =  #e65c00>
+Odie
+</FONT>
+
+<BR>
+<BR>
+<IMG SRC ="C:\Users\natan\OneDrive\Área de Trabalho\Teste\IMAGENS\caes\5.jpg" >
+<BR>
+<BR>
+Um famoso Terrier personagem da banda desenhada “Garfied” criada por Jim Davis. Definido por Garfield como “uma língua com olhos e patas” por se babar e estar sempre com a língua de fora.
+<BR>
+<BR>
+<BR>
+
+<FONT COLOR =  #e65c00>
+Brian Griffin
+</FONT>
+
+<BR>
+<BR>
+<IMG SRC ="C:\Users\natan\OneDrive\Área de Trabalho\Teste\IMAGENS\caes\3.jpg" >
+<BR>
+<BR>
+Um Labrador de cor branca, personagem da “Family Guy” criada por Seth MacFarlane.
+<BR>
+<BR>
+<BR>
+
+<FONT COLOR =  #e65c00>
+Pongo
+</FONT>
+
+<BR>
+<BR>
+<IMG SRC ="C:\Users\natan\OneDrive\Área de Trabalho\Teste\IMAGENS\caes\7.jpg" >
+<BR>
+<BR>
+Cão de raça Dálmata, personagem dos “101 Dálmatas”, criado por Walt Disney.
+<BR>
+<BR>
+<BR>
+
+<FONT COLOR =  #e65c00>
+Bolt
+</FONT>
+
+<BR>
+<BR>
+<IMG SRC ="C:\Users\natan\OneDrive\Área de Trabalho\Teste\IMAGENS\caes\2.jpg" >
+<BR>
+<BR>
+Cão de raça Pastor-branco-americano, personagem da banda desenhada “Bolt” criada por Walt Disney.
+<BR>
+<BR>
+<BR>
+
+<FONT COLOR =  #e65c00>
+Muttley
+</FONT>
+
+<BR>
+<BR>
+<IMG SRC ="C:\Users\natan\OneDrive\Área de Trabalho\Teste\IMAGENS\caes\4.jpg" >
+<BR>
+<BR>
+Personagem da banda desenhada “Wacky Races” criada por Cartoon Network Studios.
+<BR>
+<BR>
+<BR>
+
+<FONT COLOR = #e65c00>
+Ajudante do Papai Noel 
+</FONT>
+
+<BR>
+<BR>
+<IMG SRC ="C:\Users\natan\OneDrive\Área de Trabalho\Teste\IMAGENS\universo.png" >
+<BR>
+<BR>
+Outro cão de bom coração, desta vez um cão de corrida que fica abandonado por seu dono e é adotado por sua família de desenho animado favorita: Os Simpsons. O Ajudante de Papai Noel é da raça Greyhound. <BR>
+<BR>
+<BR>
+
+<FONT COLOR =  #e65c00>
+Spike 
+</FONT>
+
+<BR>
+<BR>
+<IMG SRC ="C:\Users\natan\OneDrive\Área de Trabalho\Teste\IMAGENS\universo.png" >
+<BR>
+<BR>
+Na briga entre Tom e Jerry, o ratinho tem um defensor de peso: o cão Spike. Trata-se de um buldogue feroz que, vira e mexe, coloca o gato Tom para correr.<BR>
+<BR>
+<BR>
+<FONT COLOR =   #e60000>
+Esses são os cães animados mais populares, de acordo com a população!
+</FONT>
+
+</P>
+</FONT>
+
+<div hidden>
+<FONT SIZE=8>
+<UL type=square>
+<LI> Origem do Universo
+<P> A teoria e o modelo científico e cosmológico mais aceito sobre a origem do universo é a chamada “Teoria do Big Bang”.</P>
+<LI> A formação do universo: o Big Bang.
+<P> Segundo a teoria criada pelo astrônomo George Lemaître (1894-1966), o universo tem uma origem comum, a partir da qual tudo se originou. </P>
+<LI> A idade do universo
+<P> Estudos mais recentes apontam que a idade aproximada está entre 13,8 a 14 bilhões de anos. </P>
+</UL>
+</FONT>
+</div>
+
+</BODY>
+</HTML>

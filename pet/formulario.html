@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contato</title>
+	<link rel="stylesheet" type="text/css" href="stylesformulario.css">
+	
+	<style>
+	
+	body {
+		background-image: url("background/1.png");
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: cover;
+			  image-rendering: crisp-edges;
+		/* Outras propriedades CSS */
+	}
+
+</style>
+	
+
+
+
+
+
+
+
+</head>
+<body>
+    <div id="success-message" style="display: none;"></div>
+	<div class="container">
+		<h1>Fale conosco</h1>
+		<p>Por favor, preencha o formulário abaixo:</p>
+		<form id="form-contato" method="POST">
+			<label for="opcao">Deseja falar sobre:</label>
+			<select id="opcao" name="opcao">
+				<option value="">Selecione</option>
+				<option value="opcao1">Adote um companheiro</option>
+				<option value="opcao2">Seja um lar temporário</option>
+				<option value="opcao3">Doe suprimentos e alimentos</option>
+				<option value="opcao4">Informe sobre maus-tratos</option>
+			</select>
+			<label for="nome">Nome:</label>
+			<input type="text" id="nome" name="nome" required>
+			<label for="email">Email:</label>
+			<input type="email" id="email" name="email" required>
+			<label for="mensagem">Mensagem:</label>
+			<textarea id="mensagem" name="mensagem" required></textarea>
+			<button type="submit">Enviar</button>
+		</form>
+	</div>
+
+    <script>
+        document.getElementById("opcao").addEventListener("change", function() {
+          if (this.value === "opcao1") {
+            window.location.href = "adocao.html";
+          }
+        });
+      </script>
+
+
+	<script src="scriptformulario.js"></script>
+
+</body>
+</html>

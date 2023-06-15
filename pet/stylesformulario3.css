@@ -1,0 +1,93 @@
+/* stylesformulario2.css */
+
+/* Estilos gerais do formulário */
+.container {
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    color: #333;
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  button[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Estilos específicos do formulário de adoção */
+  #animal-option {
+    margin-bottom: 20px;
+  }
+  
+  #animal-names {
+    display: none;
+  }
+  
+  /* stylesformulario2.css */
+
+/* Estilos gerais */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+  }
+  
+  .container {
+    width: 400px;
+    padding: 50px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(2, 0, 4, 0.2);
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    text-align: left;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  
